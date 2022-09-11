@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sa1n255
 - 👀 I’m interested in learn and experiences
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
