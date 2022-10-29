@@ -5,7 +5,7 @@
 - 📫 Se precisar entrar em contato comigo:
 1. Instagram: @samuca255
 2. Discord: sa1n255#0155
-3. lima223429@gmail.com
+3. Email: lima223429@gmail.com
 
 # Sobre mim
 Adoro novas experiências, estou sempre com sede de aprender e gosto de desafios. Sou focado na carreira e minha meta é ser Desenvolvedor FullStack.
