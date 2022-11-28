@@ -9,9 +9,8 @@ Meu **sonho** é fazer um **curso gratuito** ensinando programação. Tenho para
 
 **_Foco e Determinação._** 🚀
 
-_— Não há nada mais prazeroso e emocionante que ensinar as pessoas._  
+_— Não há nada mais prazeroso e emocionante que ensinar as pessoas._
 <br>
-
 <div align="center">
   <a href="https://github.com/sa1n255">
   <img height="179em" src="https://github-readme-stats.vercel.app/api?username=Sa1n255&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
