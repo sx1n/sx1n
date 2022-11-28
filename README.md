@@ -14,7 +14,7 @@ _— Não há nada mais prazeroso e emocionante que ensinar as pessoas._
 
 <div align="center">
   <a href="https://github.com/sa1n255">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sa1n255&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=Sa1n255&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa1n255&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
