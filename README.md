@@ -3,7 +3,7 @@
 
 Me apaixonei recentemente pelo mundo da programação e não consigo parar de virar madrugadas estudando 😄.
 
-Almejo ser **Desenvolvedor FullStack**, estou sempre com **sede de aprender**, adoro ter novas **experiências** e gosto muito de fazer **Networking**.
+Almejo ser **Desenvolvedor Back-End**, estou sempre com **sede de aprender**, adoro ter novas **experiências** e gosto muito de fazer **Networking**.
 
 Meu **sonho** é fazer um **curso gratuito** ensinando programação. Tenho para mim que, ter conhecimento é muito bom, mas poder compartilhar ele é **MELHOR AINDA**. Só que, para realizar esse sonho eu tenho que aprender _muuuita_ coisa ainda. Mais importante que tudo isso, só o meu segundo sonho, que é realizar o primeiro.
 
