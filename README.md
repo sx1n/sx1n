@@ -26,8 +26,8 @@ _— Não há nada mais prazeroso e emocionante que ensinar as pessoas._
   <img align="center" title="MongoDB" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" title="PostgreSQL" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" title="Git" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" title="Shell Script" height="40" width="40" hspace="10" vspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" title="Docker" height="40" width="40" hspace="10" vspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" title="Shell Script" height="40" width="40" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" title="Docker" height="40" width="40" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
 
   <!--<img align="center" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
