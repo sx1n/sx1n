@@ -24,7 +24,7 @@ _— Não há nada mais prazeroso e emocionante que ensinar as pessoas._
   <img align="center" title="NodeJs" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" title="HapiJs FrameWork" height="40" width="40" hspace="10" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4">
   <img align="center" title="MongoDB" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" title="PostgreSQL" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" title="MySQL" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" title="Git" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" title="Shell Script" height="40" width="40" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" title="Docker" height="40" width="40" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
