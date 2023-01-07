@@ -9,7 +9,7 @@ Almejo ser **Desenvolvedor Back-End**, estou sempre com **sede de aprender**, ad
 
 **_Foco e Determinação._** 🚀
 
-_— Não há nada mais prazeroso e emocionante que ensinar as pessoas._
+<!-- _— Não há nada mais prazeroso e emocionante que ensinar as pessoas._ -->
 <br>
 <br>
 <div align="center">
