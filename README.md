@@ -13,13 +13,13 @@ Almejo ser **Desenvolvedor Back-End**, estou sempre com **sede de aprender**, ad
 <br>
 <br>
 <div align="center">
-  <a href="https://github.com/sa1n255">
+  <a href="https://github.com/sx1n">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sx1n&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sx1n&layout=compact&langs_count=7&theme=react"/> 
 </div>
   <br>
   <br>
-<div style="display: inline_block" align="center"><br>
+<!-- <div style="display: inline_block" align="center"><br>
   <p>Atualmente estou estudando:</p>
   <img align="center" title="NodeJs" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" title="Express FrameWork" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
@@ -27,7 +27,7 @@ Almejo ser **Desenvolvedor Back-End**, estou sempre com **sede de aprender**, ad
   <img align="center" title="MySQL" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" title="Git" height="40" width="40" hspace="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" title="Shell Script" height="40" width="40" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" title="Docker" height="40" width="40" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" title="Docker" height="40" width="40" hspace="10" vspace="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> -->
   
  
   <!--<img align="center" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
