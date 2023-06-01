@@ -7,7 +7,7 @@ Almejo ser **Desenvolvedor Back-End**, estou sempre com **sede de aprender**, ad
 
 <!-- Meu **sonho** é fazer um **curso gratuito** ensinando programação. Tenho para mim que, ter conhecimento é muito bom, mas poder compartilhar ele é **MELHOR AINDA**. Só que, para realizar esse sonho eu tenho que aprender _muuuita_ coisa ainda. -->
 
-**_Foco e Determinação._** 🚀
+**_Foco e Determinação._**
 
 <!-- _— Não há nada mais prazeroso e emocionante que ensinar as pessoas._ -->
 <br>
